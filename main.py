@@ -1,3 +1,12 @@
+"""
+Nombre: Harry Enrique Bodán Navarro
+Versión del programa: 1.0
+Fecha de realización: 02 de Mayo 2025
+Resumen:
+Esta función muestra un menú que nos permite acceder a los demás ejercicios
+"""
+
+
 from LinkedList import *
 from Exercise1 import *
 from Exercise2 import *
